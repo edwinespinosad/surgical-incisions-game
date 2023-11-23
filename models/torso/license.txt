@@ -1,0 +1,11 @@
+Model Information:
+* title:	Human Anatomy: Male Torso
+* source:	https://sketchfab.com/3d-models/human-anatomy-male-torso-c51104a42e554cf5ae18c7e7f584fd70
+* author:	Shushanto(PolyCube) (https://sketchfab.com/shushanto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human Anatomy: Male Torso" (https://sketchfab.com/3d-models/human-anatomy-male-torso-c51104a42e554cf5ae18c7e7f584fd70) by Shushanto(PolyCube) (https://sketchfab.com/shushanto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
